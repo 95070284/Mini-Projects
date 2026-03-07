@@ -1,0 +1,30 @@
+.green{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black ;
+}
+
+@media (max-width: 300px) {
+    .green{
+        background-color: green;
+    }
+}
+
+@media (min-width: 300px)and (max-width: 400px) {
+    .green{
+        background-color: pink;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 600px) {
+    .green{
+        background-color: red;
+    }
+}
+
+@media (min-width: 600px) {
+    .green{
+        background-color: blue;
+    }
+}

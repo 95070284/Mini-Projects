@@ -1,0 +1,56 @@
+Development Phases
+Phase 1 (2 weeks)
+
+Basic AI Chat
+
+Features:
+
+chat UI
+
+API call
+
+history save
+
+Phase 2 (2 weeks)
+
+Add:
+
+tasks
+
+notes
+
+Phase 3 (2 weeks)
+
+Add:
+
+memory system
+
+assistant learns user
+
+Phase 4
+
+Add:
+
+voice assistant
+
+7️⃣ Secret Feature (Product ko Powerful banane wala)
+
+Main ek idea deta hu.
+
+Daily Reflection AI
+
+Assistant roz puche:
+
+Aaj tumne kya achieve kiya?
+
+User bole:
+
+coding seekhi
+
+Assistant store kare.
+
+Phir weekly bole:
+
+Talib tumhari coding consistency improve ho rahi hai
+
+Ye feature bahut powerful hai.
